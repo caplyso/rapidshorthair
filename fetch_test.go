@@ -4,8 +4,6 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-
-	_ "net/http/pprof"
 )
 
 func TestFetcher(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/rapidshorthair
+module github.com/caplyso/rapidshorthair
 
 go 1.20
 
